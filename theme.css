@@ -26,19 +26,6 @@ h2 {
     color: red;
 }
 
-.note_header {
-    margin-bottom: 2px;
-    font-weight: bold;
-}
-
-.note {
-    text-align: center;
-    list-style: none;
-    padding-left: 0px;
-    margin-top: 0px;
-}
-
-
 #filter_btn {
     background-color: #007bff;
     color: #fff;
