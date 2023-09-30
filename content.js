@@ -25,7 +25,18 @@ document.addEventListener("DOMContentLoaded", function() {
                 'de': 'A3JWKAKR8XB7XF',     // Germany
                 'co.jp': 'AN1VRQENFRJN5',   // Japan
                 'co.uk': 'A3P5ROKL5A1OLE',   // United Kingdom
-                'in': 'A21TJRUUN4KGV'      // India
+                'in': 'A21TJRUUN4KGV',      // India
+                'com.mx': 'A1AM78C64UM0Y8', // Mexico
+                'es': 'A1RKKUPIHCS9HS',     // Spain
+                'it': 'APJ6JRA9NG5V4',      // Italy
+                'com.au': 'A39IBJ37TRP1C6', // Australia
+                'com.tr': 'A33AVAJ2PDY3EV', // Turkey
+                'com.sg': 'A19VAU5U5O7RUS', // Singapore
+                'nl': 'A1805IZSGTT6HS',     // Netherlands
+                'ae': 'A2VIGQ35RCS4UG',     // United Arab Emirates
+                'com.sa': 'A17E79C6D8DWNP', // Saudi Arabia
+                'com.my': 'A1K21FY43GMHF8', // Malaysia
+                'com.tw': 'A1JTJDCB9Y11KX', // Taiwan
                 // Add more country codes as needed
               };
           
